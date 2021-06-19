@@ -7,15 +7,15 @@ public class Day01_과제 {
 		/*
 		 *  \    /\
 		 *   )  ( ')
-		 * 	(	/  )
-		 * 	 \ (__)|
+		 * 	(  /  )
+		 * 	 \(__)|
 		 * 
 		 */
 		
 		System.out.print( "\\    /\\\n" );
 		System.out.print( " )  ( ')\n" );
-		System.out.print( "(   /  )\n" );
-		System.out.print( " \\ (__)|\n" );
+		System.out.print( "(  /  )\n" );
+		System.out.print( " \\(__)|\n" );
 		
 		// 과제2 : 개 출력
 		/*
